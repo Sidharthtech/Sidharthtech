@@ -56,6 +56,12 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
   <a href="https://github.com/Sidharthtech/arp-detector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight" alt="arp-detector project" />
   </a>
+  <a href="https://github.com/Sidharthtech/Captcha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Captcha&theme=tokyonight" alt="Captcha project" />
+  </a>
+  <a href="https://github.com/Sidharthtech/Portfolio_Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Portfolio_Website&theme=tokyonight" alt="Portfolio_Website project" />
+  </a>
 </p>
 
 ---
