@@ -42,10 +42,9 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidharthtech&show_icons=true&locale=en&theme=tokyonight" alt="Sidharthtech's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidharthtech&theme=tokyonight" alt="Sidharthtech's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidharthtech&show_icons=true&locale=en&theme=tokyonight" alt="Sidharthtech's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidharthtech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sidharthtech's Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidharthtech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sidharthtech's Top Languages" />
 </p>
 
 ---
