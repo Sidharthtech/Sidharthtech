@@ -68,5 +68,5 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
 <br>
 
 <p align="center">
-  <i>“Stay curious, keep learning, and never stop coding!” 🚀</i>
+  <i>“Stay curious, keep learning and never stop coding!” 🚀</i>
 </p>
