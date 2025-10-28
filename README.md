@@ -21,7 +21,7 @@
 I'm a tech enthusiast who is always eager to learn new things. From building web applications to exploring the world of cybersecurity, I love diving deep into technology and solving real-world problems.
 
 - 🌱 Currently learning: **Advanced cybersecurity concepts and modern web frameworks**
-- 🕹️ Fun facts: **I’m an animal lover, a passionate gamer, and always up for a coding challenge!**
+- 🕹️ Fun facts: **I’m an animal lover, a passionate gamer and always up for a coding challenge!**
 
 ---
 
@@ -35,7 +35,7 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
 
 - **Programming Languages:** Python
 - **Web Development:** HTML, CSS, JavaScript
-- **Cybersecurity:** Network security basics, penetration testing (learning more!)
+- **Cybersecurity:** Network security basics, penetration testing
 
 ---
 
