@@ -29,7 +29,7 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,git,linux,docker,bash" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,linux,docker,bash" />
   </a>
 </p>
 
