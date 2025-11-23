@@ -33,7 +33,7 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
   </a>
 </p>
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python, C
 - **Web Development:** HTML, CSS, JavaScript
 - **Cybersecurity:** Network security basics, penetration testing
 
