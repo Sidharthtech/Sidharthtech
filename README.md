@@ -43,11 +43,11 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
 
 <div align="center">
 
-![Sidharthtech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharthtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Sidharthtech's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sidharthtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharthtech&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sidharthtech&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -57,14 +57,13 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
 
 <div align="center">
 
-[![arp-detector](https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight)](https://github.com/Sidharthtech/arp-detector)
+[![arp-detector](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight)](https://github.com/Sidharthtech/arp-detector)
 
-[![Captcha](https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Captcha&theme=tokyonight)](https://github.com/Sidharthtech/Captcha)
+[![Captcha](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sidharthtech&repo=Captcha&theme=tokyonight)](https://github.com/Sidharthtech/Captcha)
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Portfolio_Website&theme=tokyonight)](https://github.com/Sidharthtech/Portfolio_Website)
+[![Portfolio Website](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sidharthtech&repo=Portfolio_Website&theme=tokyonight)](https://github.com/Sidharthtech/Portfolio_Website)
 
 </div>
-
 
 ---
 
