@@ -41,27 +41,30 @@ I'm a tech enthusiast who is always eager to learn new things. From building web
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidharthtech&show_icons=true&locale=en&theme=tokyonight" alt="Sidharthtech's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidharthtech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sidharthtech's Top Languages" />
-</p>
+<div align="center">
+
+![Sidharthtech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidharthtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharthtech&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 🚀 Notable Projects
 
-<p align="center">
-  <a href="https://github.com/Sidharthtech/arp-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight" alt="arp-detector project" />
-  </a>
-  <a href="https://github.com/Sidharthtech/Captcha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Captcha&theme=tokyonight" alt="Captcha project" />
-  </a>
-  <a href="https://github.com/Sidharthtech/Portfolio_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Portfolio_Website&theme=tokyonight" alt="Portfolio_Website project" />
-  </a>
-</p>
+<div align="center">
+
+[![arp-detector](https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight)](https://github.com/Sidharthtech/arp-detector)
+
+[![Captcha](https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Captcha&theme=tokyonight)](https://github.com/Sidharthtech/Captcha)
+
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Sidharthtech&repo=Portfolio_Website&theme=tokyonight)](https://github.com/Sidharthtech/Portfolio_Website)
+
+</div>
+
 
 ---
 
