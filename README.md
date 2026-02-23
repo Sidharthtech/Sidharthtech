@@ -97,7 +97,7 @@ I specialize in developing **Python-based security tools**, creating **full-stac
 <div align="center">
 
 <a href="https://github.com/Sidharthtech/ReferralHub">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=ReferralHub&theme=tokyonight&border_color=6C63FF" alt="ReferralHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=ReferralHub&theme=tokyonight&border_color=6C63FF&cache_seconds=0&description=Modern%20job%20referral%20management%20system%20built%20with%20React%2C%20Apollo%20Client%20%26%20GraphQL" alt="ReferralHub" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Sidharthtech/College_Prediction_System">
