@@ -14,10 +14,6 @@
 <a href="https://github.com/Sidharthtech?tab=followers">
   <img src="https://img.shields.io/github/followers/Sidharthtech?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="GitHub Followers" />
 </a>
-&nbsp;
-<a href="https://github.com/Sidharthtech?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-8-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="Repos" />
-</a>
 
 </div>
 
