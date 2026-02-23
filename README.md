@@ -58,6 +58,7 @@ I specialize in developing **Python-based security tools**, creating **full-stac
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -99,18 +100,18 @@ I specialize in developing **Python-based security tools**, creating **full-stac
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=ReferralHub&theme=tokyonight&border_color=6C63FF" alt="ReferralHub" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Sidharthtech/arp-detector">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight&border_color=6C63FF" alt="arp-detector" />
+<a href="https://github.com/Sidharthtech/College_Prediction_System">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=College_Prediction_System&theme=tokyonight&border_color=6C63FF" alt="College Prediction System" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Sidharthtech/College_Prediction_System">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=College_Prediction_System&theme=tokyonight&border_color=6C63FF" alt="College Prediction System" />
-</a>
-&nbsp;&nbsp;
 <a href="https://github.com/Sidharthtech/Portfolio_Website_2.0">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=Portfolio_Website_2.0&theme=tokyonight&border_color=6C63FF" alt="Portfolio Website 2.0" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Sidharthtech/arp-detector">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight&border_color=6C63FF" alt="arp-detector" />
 </a>
 
 </div>
@@ -120,9 +121,9 @@ I specialize in developing **Python-based security tools**, creating **full-stac
 | Project | Description | Tech |
 |---------|-------------|------|
 | [� ReferralHub](https://github.com/Sidharthtech/ReferralHub) | Production-ready job referral management system with React frontend & live GraphQL backend | `React` `GraphQL` `Apollo` |
-| [🛡️ ARP Detector](https://github.com/Sidharthtech/arp-detector) | Python toolkit for detecting & mitigating ARP spoofing attacks using Scapy | `Python` `Scapy` `Networking` |
 | [🎓 College Predictor](https://github.com/Sidharthtech/College_Prediction_System) | Smart web app helping KEAM aspirants predict college admissions based on scores & cutoffs | `HTML` `CSS` `JavaScript` |
 | [🌐 Portfolio v2.0](https://github.com/Sidharthtech/Portfolio_Website_2.0) | Refined personal portfolio with clean design and comprehensive edge-case handling | `HTML` `CSS` `JavaScript` |
+| [🛡️ ARP Detector](https://github.com/Sidharthtech/arp-detector) | Python toolkit for detecting & mitigating ARP spoofing attacks using Scapy | `Python` `Scapy` `Networking` |
 
 ---
 
