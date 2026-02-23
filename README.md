@@ -3,7 +3,7 @@
 
 # Hey there, I'm Sidharth 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Python+Developer+%7C+Cybersecurity+Enthusiast;Full-Stack+Web+Developer;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Python+Developer+%7C+Cybersecurity+Enthusiast;Full-Stack+Web+Developer;" alt="Typing SVG" /></a>
 
 <br/>
 
