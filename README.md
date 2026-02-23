@@ -100,8 +100,8 @@ I specialize in developing **Python-based security tools**, creating **full-stac
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=arp-detector&theme=tokyonight&border_color=6C63FF" alt="arp-detector" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Sidharthtech/Captcha">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=Captcha&theme=tokyonight&border_color=6C63FF" alt="Captcha" />
+<a href="https://github.com/Sidharthtech/ReferralHub">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sidharthtech&repo=ReferralHub&theme=tokyonight&border_color=6C63FF" alt="ReferralHub" />
 </a>
 
 <br/><br/>
@@ -121,7 +121,7 @@ I specialize in developing **Python-based security tools**, creating **full-stac
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🛡️ ARP Detector](https://github.com/Sidharthtech/arp-detector) | Python toolkit for detecting & mitigating ARP spoofing attacks using Scapy | `Python` `Scapy` `Networking` |
-| [🖱️ Mouse CAPTCHA](https://github.com/Sidharthtech/Captcha) | Non-intrusive CAPTCHA that analyzes mouse movement patterns to distinguish humans from bots | `Python` `ML` `Security` |
+| [� ReferralHub](https://github.com/Sidharthtech/ReferralHub) | Production-ready job referral management system with React frontend & live GraphQL backend | `React` `GraphQL` `Apollo` |
 | [🎓 College Predictor](https://github.com/Sidharthtech/College_Prediction_System) | Smart web app helping KEAM aspirants predict college admissions based on scores & cutoffs | `HTML` `CSS` `JavaScript` |
 | [🌐 Portfolio v2.0](https://github.com/Sidharthtech/Portfolio_Website_2.0) | Refined personal portfolio with clean design and comprehensive edge-case handling | `HTML` `CSS` `JavaScript` |
 
