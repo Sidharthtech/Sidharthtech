@@ -26,7 +26,7 @@
 I specialize in developing **Python-based security tools**, creating **full-stack web applications**, and exploring the intersection of software engineering and **network defense**. I thrive on solving complex real-world problems through clean, maintainable code.
 
 <table>
-<tr><td>🔭</td><td><b>Currently working on</b></td><td>Security tooling & modern web frameworks</td></tr>
+<tr><td>🔭</td><td><b>Currently working on</b></td><td>Python & modern web frameworks</td></tr>
 <tr><td>🌱</td><td><b>Currently learning</b></td><td>React, GraphQL, Node.js & advanced penetration testing</td></tr>
 <tr><td>💬</td><td><b>Ask me about</b></td><td>Python, network security, web development</td></tr>
 <tr><td>📫</td><td><b>Reach me at</b></td><td><a href="https://www.linkedin.com/in/sidharth-h-l/">LinkedIn — Sidharth H L</a></td></tr>
